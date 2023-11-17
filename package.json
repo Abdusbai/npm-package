@@ -1,0 +1,22 @@
+{
+  "name": "abdessamad-package",
+  "version": "1.0.0",
+  "description": "My presonal package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdusbai/npm-package.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Abdessamad SBAI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdusbai/npm-package/issues"
+  },
+  "homepage": "https://github.com/Abdusbai/npm-package#readme"
+}
