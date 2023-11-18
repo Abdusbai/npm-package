@@ -1,0 +1,1 @@
+The Compression Package is a powerful npm package that provides a file compression utility using the zlib module. It allows you to compress files in a variety of formats, reducing their size and optimizing storage.

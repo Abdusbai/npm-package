@@ -1,7 +1,7 @@
 {
-  "name": "abdusbai-package",
+  "name": "npm-package",
   "version": "1.0.0",
-  "description": "My personal package",
+  "description": "The Compression Package is a powerful npm package that provides a file compression utility using the zlib module. It allows you to compress files in a variety of formats, reducing their size and optimizing storage.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/Abdusbai/npm-package.git"
   },
-  "author": "Abdessamad SBAI",
+  "keywords": [
+    "compression",
+    "utility",
+    "npm"
+  ],
+  "author": "Abdessamad Sbai",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Abdusbai/npm-package/issues"
   },
-  "homepage": "https://github.com/Abdusbai/npm-package#readme",
-  "dependencies": {
-    "chalk": "^5.3.0"
-  }
+  "homepage": "https://github.com/Abdusbai/npm-package#readme"
 }
