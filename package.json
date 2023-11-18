@@ -1,5 +1,5 @@
 {
-  "name": "npm-package",
+  "name": "abdessamad-package",
   "version": "1.0.0",
   "description": "The Compression Package is a powerful npm package that provides a file compression utility using the zlib module. It allows you to compress files in a variety of formats, reducing their size and optimizing storage.",
   "main": "index.js",
